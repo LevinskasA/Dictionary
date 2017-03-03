@@ -1,0 +1,11 @@
+cat/katė
+line/eilė
+dog/šuo
+table/stalas
+tree/medis
+chair/kėdė
+board/lenta
+item/daiktas
+object/objektas
+program/programa
+chalk/kreida
